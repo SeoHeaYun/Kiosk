@@ -10,7 +10,7 @@ import com.example.kiosk.ShoppingBasket.spritePrice
 import java.time.LocalDateTime
 import kotlin.concurrent.thread
 
-val spartaBurger = SpartaBurger()  // 모든 메뉴 생성자 호출
+val spartaBurger = SpartaBurger()  // 모든 메뉴 생성자 호출!
 val hotSpicyBurger = HotSpicyBurger()
 val frenchFries = FrenchFries()
 val cheeseStick = CheeseStick()
