@@ -10,7 +10,7 @@ import com.example.kiosk.ShoppingBasket.spritePrice
 import java.time.LocalDateTime
 import kotlin.concurrent.thread
 
-// 수정해야할 사항: 함수들끼리 파라미터 받으면서 잘 넘어가게! 뒤로가기도 다시 구현해야 함..
+// 수정해야할 사항: 함수들끼리 파라미터 받으면서 잘 넘어가게! 뒤로가기도 다시 구현해야 함..!
 
 val spartaBurger = SpartaBurger()  // 모든 메뉴 생성자 호출
 val hotSpicyBurger = HotSpicyBurger()
